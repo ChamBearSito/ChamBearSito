@@ -2,7 +2,7 @@
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Chambearsito/30-nites-of-code)  
   ![@Chambearsito #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Chambearsito)
-  ![HOLA](https://camo.githubusercontent.com/48dbbfd0a418422b4d76e9f20de8a3b55e0e81f4ada6b05d3b8ed5bea2df62f6/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **ChamBearSito/ChamBearSito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
