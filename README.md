@@ -1,9 +1,17 @@
 ## Hi there 👋
+## 😁 About Me
+A person committed to work, always seeking to learn new skills and knowledge..
+
+🚀Lover of organization, teamwork, and solving software problems 
+- Database
+- Native Languages (JavaScript and Python)
+- Genexus
+
+## ⭐ Skills ⭐
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Chambearsito/30-nites-of-code)  
   ![@Chambearsito #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Chambearsito)
-## ⭐ Skills ⭐
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 <!--
 **ChamBearSito/ChamBearSito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
